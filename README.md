@@ -15,3 +15,4 @@ Sitio estático bilingüe (español/inglés) preparado para GitHub Pages.
 - El botón de idioma está en `script.js`.
 
 Nota: GitHub Pages hace público el contenido del sitio. Revisa los datos personales que deseas publicar antes de subirlo.
+\n## Videocurrículums\nLa sección `Videocurrículum` contiene los videos en español e inglés dentro de `assets/videos/`.\n
